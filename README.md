@@ -1,6 +1,5 @@
 # rescueGame
 Rescue game
-TIC-TAC-TOE GAME
 
 OBJECTIVE: This project mainly consists of developing Rescue Game with HTML, CSS and JS.
 
